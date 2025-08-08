@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "misc",
+  "ingredient": {
+    "item": "tutorialmod:pink_garnet"
+  },
+  "result": {
+    "count": 16,
+    "id": "tutorialmod:pink_garnet_tile"
+  }
+}
